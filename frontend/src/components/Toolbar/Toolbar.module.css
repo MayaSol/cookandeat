@@ -1,0 +1,14 @@
+.MainNav {
+
+}
+
+.MainNav :global a:hover,
+.MainNav :global a:active,
+.MainNav :global a.active {
+	color: green;
+}
+
+/*.Main_Nav :global .active {
+	color: blue;
+}
+*/

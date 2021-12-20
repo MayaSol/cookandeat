@@ -1,0 +1,44 @@
+.IngredientsRow {
+	display: flex;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.IngredientsItem {
+	padding: 5px;
+}
+
+.IngredientsTitle {
+	width: 300px;
+}
+
+.IngredientsAmount {
+	width: 150px;
+}
+
+.IngredientsUnit {
+	width: 150px;
+}
+
+.Steps {
+
+}
+
+.Steps ul {
+	padding: 0;
+	list-style: none;
+}
+
+.Steps__Item {
+	display: flex;
+	margin-bottom: 15px;
+}
+
+.Steps__Item span {
+	width: 50px;
+}
+
+.Steps__Item p {
+	margin-top: 0;
+	margin-bottom: 0;
+}

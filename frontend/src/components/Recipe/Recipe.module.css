@@ -1,0 +1,29 @@
+.Recipe {
+	display: flex;
+	flex-direction: column;
+	width: 250px;
+	padding: 10px 0;
+	border: 1px solid blue;
+}
+
+.ButtonWrapper {
+	margin-top: auto;
+}
+
+.ButtonWrapper button {
+	width: 100%;
+}
+
+.Title {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.Img img {
+	max-width: 100%;
+}
+
+.Desc {
+	padding-left: 10px;
+	padding-right: 10px;
+}

@@ -1,0 +1,29 @@
+.Recipe {
+	display: flex;
+	flex-direction: column;
+	width: 800px;
+}
+
+.Steps_Item {
+	display: flex;
+	align-items: flex-start;
+	margin-bottom: 10px;
+}
+
+.Steps_Item textarea {
+	flex-grow: 1;
+}
+
+.Steps {
+	display: flex;
+	flex-direction: column;
+	padding: 0;
+	list-style: none;
+}
+
+.Ingredients {
+	display: flex;
+	flex-direction: column;
+	padding: 0;
+	list-style: none;
+}
